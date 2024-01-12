@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:time_schedule/Components/drawer_tile.dart';
+import '../Drawer/drawer_tile.dart';
 
 class MyDrawer extends StatelessWidget {
   const MyDrawer({super.key});

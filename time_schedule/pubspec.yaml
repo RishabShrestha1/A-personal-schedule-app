@@ -38,6 +38,7 @@ dependencies:
   flutter_launcher_icons: ^0.13.1
   responsive_sizer: ^3.2.0
   get: ^4.6.6
+  http: ^1.1.0
 
 dev_dependencies:
   flutter_test:
